@@ -137,3 +137,16 @@ footer p {
     left: 0;
     color: black;
 }
+
+.experiencias {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: gray;
+    padding: 60px 80px;
+    gap: 40px;
+}
+
+.formacao, .experiencia {
+    flex: 1;
+    min-width: 300px;
+}
