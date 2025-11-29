@@ -112,3 +112,14 @@ footer p {
     flex: 1;
     min-width: 300px;
 }
+
+.sobre-mim h2, .habilidades h2 {
+    font-size: 32px;
+    color: gray;
+    margin-bottom: 10px;
+}
+
+.habilidades ul {
+    list-style: none;
+    padding-left: 0;
+}
