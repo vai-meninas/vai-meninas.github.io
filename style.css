@@ -8,3 +8,17 @@ body {
     display: flex;
     height: 100vh;
 }
+
+.foto {
+    flex: 1;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.foto img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+}
