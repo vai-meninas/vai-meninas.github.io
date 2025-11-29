@@ -71,3 +71,17 @@ body {
     color: #444;
     background-color: gray;
 }
+
+footer {
+    background-color: #444;
+    color: wheat;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    margin: 0;
+    font-family: "Libre Baskerville", serif;
+    font-size: 16px;
+    font-weight: 500;
+}
