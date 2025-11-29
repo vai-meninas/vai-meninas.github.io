@@ -35,3 +35,14 @@ body {
     font-size: 48px;
     margin: 0;
 }
+
+.infos h2 {
+    font-size: 24px;
+    color: gray;
+    margin-top: 10px;
+}
+
+.infos p {
+    font-size: 18px;
+    margin: 10px 0;
+}
