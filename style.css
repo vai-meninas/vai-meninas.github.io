@@ -99,3 +99,16 @@ footer p {
     line-height: 1.6;
     max-width: 90%;
 }
+
+.linha {
+    width: 60px;
+    height: 4px;
+    background-color: black;
+    margin-bottom: 20px;
+    border-radius: 2px;
+}
+
+.sobre-mim, .habilidades {
+    flex: 1;
+    min-width: 300px;
+}
