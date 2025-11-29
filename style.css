@@ -46,3 +46,28 @@ body {
     font-size: 18px;
     margin: 10px 0;
 }
+
+
+.social {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.4rem;
+    margin-top: 1.4rem;
+}
+
+.social a {
+    display: grid;
+    place-items: center;
+    text-decoration: none;
+    color: gray;
+    border: 1.6px solid gray;
+    font-size: 1.5rem;
+    border-radius: 50%;
+    padding: 0.39rem;
+    text-align: center;
+}
+
+.social a:hover {
+    color: #444;
+    background-color: gray;
+}
